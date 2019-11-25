@@ -1,0 +1,75 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notonaskharabicui.css);
+@import url(http://fonts.googleapis.com/earlyaccess/notonaskharabic.css);
+
+/* Arabic Version  */
+
+body.ar .social-icon-top { float:right; text-align:right; }
+body.ar .top-social-icons { float:right; }
+body.ar .social-icon-top ul { float:right; }
+body.ar .social-icon-top ul li { background-position:right; padding:0 23px 0 0; }
+body.ar .headerbottom .logoarea  { float:right; text-align:right; }
+body.ar .headerbottom .midarea { float:right; }
+body.ar .headerbottom .rightarea  { float:left; }
+body.ar .rht { float:left; }
+body.ar .mainmenu ul li { float:right; }
+
+body.ar .footer-menu ul { direction: rtl; }
+
+body .rht{float: left;}
+body .lft{float: right;}
+
+body.ar .con-text-box{padding: 25px 108px ;}
+.mainmenu ul li a{font-family: "Droid Arabic Naskh", sans-serif !important;}
+.lang-swicther ul li{float: left !important;}
+.slick-arrow{display:none;}
+@media (min-width: 100px) and (max-width: 767px) {
+    body.ar .headerbottom .logoarea{float:none;}
+    }
+body.ar .date-box{left: 0px !important;float: left !important;}
+body.ar .blog-details ul li{float:right;}
+
+.ar .servsol-text ul li:before{right: -14px;transform: rotate(180deg); left:auto;}
+.ar .contact-list li{padding: 0 36px 0 0px; }
+.ar .contact-list li:nth-child(1){background:url('images/phone-ico.jpg') no-repeat right;  }
+.ar .contact-list li:nth-child(2){background:url('images/email-ico.jpg') no-repeat right;  }
+.ar .contact-list li:nth-child(3){background:url('images/map-ico.png') no-repeat right;  }
+.ar .footer-social-icons2 li{float: right;}
+.ar .nopadd-lft-ar{padding-right: 27px;}
+.ar .categories_section ul li{background: url('images/arrow-li.png')no-repeat center right;padding: 0 15px 0 0px;}
+
+.ar span.wpcf7-not-valid-tip{margin-bottom: 15px;}
+.ar .jobs-table span{float: right;}
+.ar .slide-readmore{float: right;}
+.ar .wpas-forgot-password-link{margin-right: 10px;}
+
+.ar .contact-form input[type="text"],.ar .contact-form input[type="tel"],.ar .contact-form input[type="email"]{direction: rtl;padding: 2px 15px 2px 14px;}
+.ar .contact-form select{direction: rtl;}
+.ar .contact-form textarea,.ar .contactus-textarea textarea{direction: rtl;padding: 7px 10px 0 14px !important;}
+.ar .searchform2 input[type="submit"]{ float: left;margin-left: 0px;}
+.ar .searchform2 input[type="text"],.ar .searchform2 input[type="search"]{padding: 8px 10px 8px 8px;}
+@media (min-width: 100px) and (max-width: 800px) {
+    .sidebar .section{padding: 0 15px;}
+    body .noPadd{}
+    .ar .sidebar > .col-md-12.noPadd{padding:0 15px;}
+    .sidebar h4{}
+    .widget_archive{padding: 0 15px;}
+    .ar .top-social-icons, .ar .top-social-icons ul{float:none !important;}
+    body.ar .headerbottom .logoarea{float: left !important;text-align: left !important;}
+   /* body.ar .rht{float:none !important;}*/
+    .ar .slider .slick-arrow{display:none !important;}
+    .ar .con-text-box{padding: 25px 20px !important;}
+    .ar .social-icons-footer ul li:last-child{margin:0 9px 0 0 !important;}
+    .ar .dub-2030 img, .foo-logo img{float: none !important;}
+    .ar .blog-details{overflow:none !important;}
+    .ar .jobs-table span{float:none;}
+   
+    }
+@media (min-width:768px) and (max-width: 800px) {
+    #vmbox_1,#vmbox_2{
+        background-size: 100% !important;
+        }
+        .ar .con-text-box{background: url(images/arrow-bckgrnd-rht.png) no-repeat right !important;}
+        .ar .seacrh-form-sidebar input[type="submit"]{float: left;margin-left:0px;}
+        .ar .seacrh-form-sidebar input[type="search"]{width: 80%;}
+        .servsol-text{float: none !important;}
+    }

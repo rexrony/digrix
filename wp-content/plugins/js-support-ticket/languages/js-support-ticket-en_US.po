@@ -1,0 +1,4207 @@
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: JS Support Ticket\n"
+"POT-Creation-Date: 2015-02-28 12:00+0500\n"
+"PO-Revision-Date: 2019-01-12 04:58+0000\n"
+"Last-Translator: Ahmad Bilal\n"
+"Language-Team: English (http://www.transifex.com/joom-sky/js-support-ticket/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Control Panel"
+msgstr ""
+
+msgid "Announcements"
+msgstr ""
+
+msgid "Announcement Detail"
+msgstr ""
+
+msgid "Add Announcement"
+msgstr ""
+
+msgid "Edit Announcement"
+msgstr ""
+
+msgid "Departments"
+msgstr ""
+
+msgid "Add Department"
+msgstr ""
+
+msgid "Edit Department"
+msgstr ""
+
+msgid "Staff report"
+msgstr ""
+
+msgid "Staff reports"
+msgstr ""
+
+msgid "Departments report"
+msgstr ""
+
+msgid "Downloads"
+msgstr ""
+
+msgid "Add Download"
+msgstr ""
+
+msgid "Edit Download"
+msgstr ""
+
+msgid "FAQ's"
+msgstr ""
+
+msgid "Add FAQ"
+msgstr ""
+
+msgid "Edit FAQ"
+msgstr ""
+
+msgid "FAQ Detail"
+msgstr ""
+
+msgid "Feedbacks"
+msgstr ""
+
+msgid "Add Knowledge Base"
+msgstr ""
+
+msgid "Edit Knowledge Base"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Add Category"
+msgstr ""
+
+msgid "Edit Category"
+msgstr ""
+
+msgid "Knowledge Base Detail"
+msgstr ""
+
+msgid "Knowledge Base"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Send Message"
+msgstr ""
+
+msgid "Inbox"
+msgstr ""
+
+msgid "Outbox"
+msgstr ""
+
+msgid "Roles"
+msgstr ""
+
+msgid "Add Role"
+msgstr ""
+
+msgid "Edit Role"
+msgstr ""
+
+msgid "Role permissions"
+msgstr ""
+
+msgid "Staffs"
+msgstr ""
+
+msgid "Add Staff"
+msgstr ""
+
+msgid "Edit Staff"
+msgstr ""
+
+msgid "Staff Permissions"
+msgstr ""
+
+msgid "My Tickets"
+msgstr ""
+
+msgid "Add Ticket"
+msgstr ""
+
+msgid "Edit Ticket"
+msgstr ""
+
+msgid "Ticket Detail"
+msgstr ""
+
+msgid "Ticket Status"
+msgstr ""
+
+msgid "Plus"
+msgstr ""
+
+msgid "Equals"
+msgstr ""
+
+msgid "Minus"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
+msgid "Admin"
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "About Us"
+msgstr ""
+
+msgid "Translations"
+msgstr ""
+
+msgid "System Errors"
+msgstr ""
+
+msgid "Short Codes"
+msgstr ""
+
+msgid "Tickets"
+msgstr ""
+
+msgid "Create Ticket"
+msgstr ""
+
+msgid "Ticket Via Email"
+msgstr ""
+
+msgid "Fields"
+msgstr ""
+
+msgid "Export"
+msgstr ""
+
+msgid "Staff"
+msgstr ""
+
+msgid "Staff Members"
+msgstr ""
+
+msgid "Add Staff Member"
+msgstr ""
+
+msgid "Configuration"
+msgstr ""
+
+msgid "Configurations"
+msgstr ""
+
+msgid "Themes"
+msgstr ""
+
+msgid "Reports"
+msgstr ""
+
+msgid "Overall Statistics"
+msgstr ""
+
+msgid "Staff Reports"
+msgstr ""
+
+msgid "Department Reports"
+msgstr ""
+
+msgid "User Reports"
+msgstr ""
+
+msgid "Satisfaction Report"
+msgstr ""
+
+msgid "Feedback Fields"
+msgstr ""
+
+msgid "Form Category"
+msgstr ""
+
+msgid "Knowledgebase"
+msgstr ""
+
+msgid "FAQs"
+msgstr ""
+
+msgid "Helptopics"
+msgstr ""
+
+msgid "Help Topics"
+msgstr ""
+
+msgid "Add Help Topic"
+msgstr ""
+
+msgid "Premade Messages"
+msgstr ""
+
+msgid "Add Premade Messages"
+msgstr ""
+
+msgid "Priorities"
+msgstr ""
+
+msgid "Add Priority"
+msgstr ""
+
+msgid "System Emails"
+msgstr ""
+
+msgid "Add Email"
+msgstr ""
+
+msgid "Mail"
+msgstr ""
+
+msgid "Banned Emails"
+msgstr ""
+
+msgid "Ban Emails"
+msgstr ""
+
+msgid "Ban email log list"
+msgstr ""
+
+msgid "Email Templates"
+msgstr ""
+
+msgid "New Ticket"
+msgstr ""
+
+msgid "Staff Ticket"
+msgstr ""
+
+msgid "New Department"
+msgstr ""
+
+msgid "New Staff"
+msgstr ""
+
+msgid "New Help Topic"
+msgstr ""
+
+msgid "Reassign Ticket"
+msgstr ""
+
+msgid "Close Ticket"
+msgstr ""
+
+msgid "Delete Ticket"
+msgstr ""
+
+msgid "Mark Overdue"
+msgstr ""
+
+msgid "Ban Email"
+msgstr ""
+
+msgid "Ban email try to create ticket"
+msgstr ""
+
+msgid "Department Transfer"
+msgstr ""
+
+msgid "Ban Email and Close Ticket"
+msgstr ""
+
+msgid "Unban Email"
+msgstr ""
+
+msgid "Response Ticket"
+msgstr ""
+
+msgid "Reply Ticket"
+msgstr ""
+
+msgid "New Ticket Admin Alert"
+msgstr ""
+
+msgid "Lock Ticket"
+msgstr ""
+
+msgid "Unlock Ticket"
+msgstr ""
+
+msgid "In Progress Ticket"
+msgstr ""
+
+msgid "Ticket Priority Is Changed By"
+msgstr ""
+
+msgid "New Mail Received"
+msgstr ""
+
+msgid "New Mail Message Received"
+msgstr ""
+
+msgid "Feedback Email To User"
+msgstr ""
+
+msgid "User Reply On Closed Ticket"
+msgstr ""
+
+msgid "Error file size too large"
+msgstr ""
+
+msgid "Latest Tickets"
+msgstr ""
+
+msgid "Subject"
+msgstr ""
+
+msgid "From"
+msgstr ""
+
+msgid "Priority"
+msgstr ""
+
+msgid "Last Month Ticket Stats"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "Answered"
+msgstr ""
+
+msgid "Pending"
+msgstr ""
+
+msgid "Overdue"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "My Profile"
+msgstr ""
+
+msgid "Dashboard"
+msgstr ""
+
+msgid "Log out"
+msgstr ""
+
+msgid "Username / password is incorrect"
+msgstr ""
+
+msgid "Username already taken"
+msgstr ""
+
+msgid "Invalid username"
+msgstr ""
+
+msgid "Please enter a username"
+msgstr ""
+
+msgid "Invalid email"
+msgstr ""
+
+msgid "Email already registered"
+msgstr ""
+
+msgid "Please enter a password"
+msgstr ""
+
+msgid "Passwords do not match"
+msgstr ""
+
+msgid "Invalid captcha"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "JS Support Ticket Control Panel"
+msgstr ""
+
+msgid "JS Support Ticket"
+msgstr ""
+
+msgid "Department"
+msgstr ""
+
+msgid "Emails"
+msgstr ""
+
+msgid "System Error"
+msgstr ""
+
+msgid "User Fields"
+msgstr ""
+
+msgid "Help topics"
+msgstr ""
+
+msgid "Ban email"
+msgstr ""
+
+msgid "Banlist log"
+msgstr ""
+
+msgid "Field Ordering"
+msgstr ""
+
+msgid "Post Installation"
+msgstr ""
+
+msgid "Sorry"
+msgstr ""
+
+msgid "No record found"
+msgstr ""
+
+msgid "You have no permission to access this page"
+msgstr ""
+
+msgid "User are not allowed to access this page."
+msgstr ""
+
+msgid "You are already Logged In."
+msgstr ""
+
+msgid "Your account has been disabled, Please contact to the administrator."
+msgstr ""
+
+msgid "Offline"
+msgstr ""
+
+msgid "You are not logged In"
+msgstr ""
+
+msgid "To access the page, Please login"
+msgstr ""
+
+msgid "Register"
+msgstr ""
+
+msgid "User is not allowed to view this Ticket"
+msgstr ""
+
+msgid """Registration has been disabled by admin, Please contact to the system ""administrator."
+msgstr ""
+
+msgid "You have already given the feedback for this ticket."
+msgstr ""
+
+msgid "Ticket not found"
+msgstr ""
+
+msgid "User is not allowed to view this page"
+msgstr ""
+
+msgid "Thank you so much for your feedback"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Mail Notification Widget"
+msgstr ""
+
+msgid "Show new and reply mail notifications"
+msgstr ""
+
+msgid "New mail from"
+msgstr ""
+
+msgid "Replied By"
+msgstr ""
+
+msgid "Mail Notification"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Layout"
+msgstr ""
+
+msgid "Vertical"
+msgstr ""
+
+msgid "Horizontal"
+msgstr ""
+
+msgid "Max Record"
+msgstr ""
+
+msgid "My Ticket Widget"
+msgstr ""
+
+msgid "Show unanswered tickets"
+msgstr ""
+
+msgid "Waiting Reply"
+msgstr ""
+
+msgid "Max record"
+msgstr ""
+
+msgid "Support"
+msgstr ""
+
+msgid "Lost your password"
+msgstr ""
+
+msgid "Ticket"
+msgstr ""
+
+msgid "You are not allowed"
+msgstr ""
+
+msgid "Announcement has been stored"
+msgstr ""
+
+msgid "Announcement has not been stored"
+msgstr ""
+
+msgid "Announcement has been deleted"
+msgstr ""
+
+msgid "Announcement has not been deleted"
+msgstr ""
+
+msgid "Announcement"
+msgstr ""
+
+msgid "status has been changed"
+msgstr ""
+
+msgid "status has not been changed"
+msgstr ""
+
+msgid "ordering has been changed"
+msgstr ""
+
+msgid "ordering has not changed"
+msgstr ""
+
+msgid "Public"
+msgstr ""
+
+msgid "Private"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Parent Category"
+msgstr ""
+
+msgid "Select Category"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Select Status"
+msgstr ""
+
+msgid "Save Announcement"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Ordering"
+msgstr ""
+
+msgid "Created"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "Are you sure to delete"
+msgstr ""
+
+msgid "Search Announcements"
+msgstr ""
+
+msgid "Attachment has been removed"
+msgstr ""
+
+msgid "Attachment has not been removed"
+msgstr ""
+
+msgid "Ban Email has been stored"
+msgstr ""
+
+msgid "Ban Email has not been stored"
+msgstr ""
+
+msgid "Ban email has been deleted"
+msgstr ""
+
+msgid "Ban Email has not been deleted"
+msgstr ""
+
+msgid "Ban email does not exist"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Save Email"
+msgstr ""
+
+msgid "Submitter"
+msgstr ""
+
+msgid "Ban Email Log List"
+msgstr ""
+
+msgid "Logger Email"
+msgstr ""
+
+msgid "Log"
+msgstr ""
+
+msgid "Logger"
+msgstr ""
+
+msgid "IP Address"
+msgstr ""
+
+msgid "Pagination default page size not saved"
+msgstr ""
+
+msgid "Data directory can not empty."
+msgstr ""
+
+msgid "Data directory is not proper."
+msgstr ""
+
+msgid "Data directory is not writable."
+msgstr ""
+
+msgid "System slug not be empty."
+msgstr ""
+
+msgid "System slug is conflicted with post or page slug."
+msgstr ""
+
+msgid "Configuration has been stored"
+msgstr ""
+
+msgid "Configuration not has been stored"
+msgstr ""
+
+msgid "Days"
+msgstr ""
+
+msgid "Hours"
+msgstr ""
+
+msgid "Google Recaptcha"
+msgstr ""
+
+msgid "Own Captcha"
+msgstr ""
+
+msgid "Any"
+msgstr ""
+
+msgid "Addition"
+msgstr ""
+
+msgid "Subtraction"
+msgstr ""
+
+msgid "JYes"
+msgstr ""
+
+msgid "JNo"
+msgstr ""
+
+msgid "Show"
+msgstr ""
+
+msgid "Hide"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "Top left"
+msgstr ""
+
+msgid "Top right"
+msgstr ""
+
+msgid "Middle left"
+msgstr ""
+
+msgid "Middle right"
+msgstr ""
+
+msgid "Bottom left"
+msgstr ""
+
+msgid "Bottom right"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "Only New Tickets"
+msgstr ""
+
+msgid "Only Replies"
+msgstr ""
+
+msgid "Both"
+msgstr ""
+
+msgid "Random"
+msgstr ""
+
+msgid "Sequence"
+msgstr ""
+
+msgid "Gmail"
+msgstr ""
+
+msgid "Yahoo"
+msgstr ""
+
+msgid "Aol"
+msgstr ""
+
+msgid "Other"
+msgstr ""
+
+msgid "General Setting"
+msgstr ""
+
+msgid "Ticket Setting"
+msgstr ""
+
+msgid "Default System Email"
+msgstr ""
+
+msgid "Mail Setting"
+msgstr ""
+
+msgid "Staff Menu Setting"
+msgstr ""
+
+msgid "User Menu Setting"
+msgstr ""
+
+msgid "Feedback Setting"
+msgstr ""
+
+msgid "Push Notification"
+msgstr ""
+
+msgid "Set the heading of your plugin"
+msgstr ""
+
+msgid "Ticket Default Page"
+msgstr ""
+
+msgid "Select Page"
+msgstr ""
+
+msgid """Select JS Support Ticket default page, on action system will redirect on ""selected page. If not select default page, email links and support icon ""might not work."
+msgstr ""
+
+msgid "Support Icon"
+msgstr ""
+
+msgid "Screen Tag"
+msgstr ""
+
+msgid "Enable / disable your support icon"
+msgstr ""
+
+msgid "Support Icon Position"
+msgstr ""
+
+msgid "Screen Tag Position"
+msgstr ""
+
+msgid "Select position for your support icon"
+msgstr ""
+
+msgid "Online"
+msgstr ""
+
+msgid "Set your plugin offline for front end"
+msgstr ""
+
+msgid "Offline Message"
+msgstr ""
+
+msgid "Set the offline message for your user"
+msgstr ""
+
+msgid "Data Directory"
+msgstr ""
+
+msgid "Set the name for your data directory"
+msgstr ""
+
+msgid """You need to rename the existing data directory in file system before ""changing the data directory name"
+msgstr ""
+
+msgid "Date Format"
+msgstr ""
+
+msgid "DD-MM-YYYY"
+msgstr ""
+
+msgid "MM-DD-YYYY"
+msgstr ""
+
+msgid "YYYY-MM-DD"
+msgstr ""
+
+msgid "Set the default date format"
+msgstr ""
+
+msgid "Ticket Overdue Interval Type"
+msgstr ""
+
+msgid "Interval type to mark ticket as overdue"
+msgstr ""
+
+msgid "Ticket Overdue"
+msgstr ""
+
+msgid "Set no. of days or hours to mark ticket as overdue"
+msgstr ""
+
+msgid "Ticket auto close"
+msgstr ""
+
+msgid "Ticket auto close if user not respond within given days"
+msgstr ""
+
+msgid "No. of attachment"
+msgstr ""
+
+msgid "No. of attachment allowed at a time"
+msgstr ""
+
+msgid "File maximum size"
+msgstr ""
+
+msgid "Kb"
+msgstr ""
+
+msgid "File extension"
+msgstr ""
+
+msgid "File extension allowed to attach"
+msgstr ""
+
+msgid "Pagination default page size"
+msgstr ""
+
+msgid "Set the no. of record per page"
+msgstr ""
+
+msgid "Breadcrumbs"
+msgstr ""
+
+msgid "Show hide breadcrumbs"
+msgstr ""
+
+msgid "Top Header"
+msgstr ""
+
+msgid "Show hide Top Header"
+msgstr ""
+
+msgid "Login redirect"
+msgstr ""
+
+msgid "Redirect user to JS Support Ticket control panel after login"
+msgstr ""
+
+msgid "Show count on my tickets"
+msgstr ""
+
+msgid "Show number of open, closed, answered ticket in my ticket"
+msgstr ""
+
+msgid "Show  captcha on registration form"
+msgstr ""
+
+msgid "Select whether you want to show captcha on registration form or not"
+msgstr ""
+
+msgid "Default wp role for new users"
+msgstr ""
+
+msgid "Select role you want to assign to new users"
+msgstr ""
+
+msgid "Set Login Link"
+msgstr ""
+
+msgid "Set Login Link Default or Custom"
+msgstr ""
+
+msgid "Ticketid sequence"
+msgstr ""
+
+msgid "Set ticketid sequential or random"
+msgstr ""
+
+msgid "Maximum tickets"
+msgstr ""
+
+msgid "Maximum ticket per user"
+msgstr ""
+
+msgid "Maximum open tickets"
+msgstr ""
+
+msgid "Maximum opened tickets per user"
+msgstr ""
+
+msgid "Reopen ticket within days"
+msgstr ""
+
+msgid "Ticket can be reopen within given number of days"
+msgstr ""
+
+msgid "User can print ticket"
+msgstr ""
+
+msgid "Can user print ticket from ticket detail or not"
+msgstr ""
+
+msgid "Show captcha on visitor form ticket"
+msgstr ""
+
+msgid "Show captcha when visitor want to create ticket"
+msgstr ""
+
+msgid "Captcha selection"
+msgstr ""
+
+msgid "Which captcha you want to add"
+msgstr ""
+
+msgid "Google recaptcha public key"
+msgstr ""
+
+msgid "Please enter the google recaptcha public key from"
+msgstr ""
+
+msgid "Google recaptcha private key"
+msgstr ""
+
+msgid "Please enter the google recaptcha private key from"
+msgstr ""
+
+msgid "Own captcha calculation type"
+msgstr ""
+
+msgid "Select calculation type addition or subtraction"
+msgstr ""
+
+msgid "Own captcha operands"
+msgstr ""
+
+msgid "Select the total operands to be given"
+msgstr ""
+
+msgid "Own captcha subtraction answer positive"
+msgstr ""
+
+msgid "Is subtraction answer should be positive"
+msgstr ""
+
+msgid "New ticket message"
+msgstr ""
+
+msgid "This message will show on new ticket"
+msgstr ""
+
+msgid "Allow Users To Reply via Email On Closed Ticket"
+msgstr ""
+
+msgid "Select whether users can reply to closed ticket via email or not"
+msgstr ""
+
+msgid "Visitor can create ticket"
+msgstr ""
+
+msgid "Can visitor create ticket or not"
+msgstr ""
+
+msgid "Visitor ticket creation message"
+msgstr ""
+
+msgid "This text will appear whenever visitor creates ticket"
+msgstr ""
+
+msgid "Default system emails"
+msgstr ""
+
+msgid "Default alert email"
+msgstr ""
+
+msgid """If ticket department email is not selected then this email is used to send ""emails"
+msgstr ""
+
+msgid "Default admin email"
+msgstr ""
+
+msgid "Admin email address to receive emails"
+msgstr ""
+
+msgid "Ban email new ticket"
+msgstr ""
+
+msgid "Mail to admin"
+msgstr ""
+
+msgid "Email send to admin when banned email try to create ticket"
+msgstr ""
+
+msgid "Ticket Operations Mail Setting"
+msgstr ""
+
+msgid "User"
+msgstr ""
+
+msgid "New ticket"
+msgstr ""
+
+msgid "Ticket reassign"
+msgstr ""
+
+msgid "Ticket close"
+msgstr ""
+
+msgid "Ticket delete"
+msgstr ""
+
+msgid "Ticket mark overdue"
+msgstr ""
+
+msgid "Ticket ban email"
+msgstr ""
+
+msgid "Ticket department transfer"
+msgstr ""
+
+msgid "Ticket reply User"
+msgstr ""
+
+msgid "Ticket Response Staff"
+msgstr ""
+
+msgid "Ticket ban email and close ticket"
+msgstr ""
+
+msgid "Ticket unban email"
+msgstr ""
+
+msgid "Ticket lock"
+msgstr ""
+
+msgid "Ticket unlock"
+msgstr ""
+
+msgid "Ticket Change Priority"
+msgstr ""
+
+msgid "Mark Ticket In Progress"
+msgstr ""
+
+msgid "Reply To A Closed Ticket By Email"
+msgstr ""
+
+msgid "Send Feedback Email To User"
+msgstr ""
+
+msgid "Control panel links"
+msgstr ""
+
+msgid "Open Ticket"
+msgstr ""
+
+msgid "Department reports"
+msgstr ""
+
+msgid "Login/Logout button"
+msgstr ""
+
+msgid "Ticket Total Count"
+msgstr ""
+
+msgid "Ticket Statistics"
+msgstr ""
+
+msgid "Top menu links"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Check Ticket Status"
+msgstr ""
+
+msgid "Login/Logout Button"
+msgstr ""
+
+msgid "Registration"
+msgstr ""
+
+msgid "Feedback Settings"
+msgstr ""
+
+msgid "Feedback Email Delay Type"
+msgstr ""
+
+msgid "Select delay type for feedback email"
+msgstr ""
+
+msgid "Feedback Email Delay"
+msgstr ""
+
+msgid "Set no. of days or hours to send feedback email after ticket is closed"
+msgstr ""
+
+msgid "Feedback Successful message to customer"
+msgstr ""
+
+msgid "This text will appear whenever anyone submits feedback"
+msgstr ""
+
+msgid "UTF Auto Switch"
+msgstr ""
+
+msgid "Firebase Notifications"
+msgstr ""
+
+msgid "Api key for user"
+msgstr ""
+
+msgid "Firsebase api key for front user"
+msgstr ""
+
+msgid "Auth Domain"
+msgstr ""
+
+msgid "Firsebase Auth Domain"
+msgstr ""
+
+msgid "Database Url"
+msgstr ""
+
+msgid "Firsebase Database URL"
+msgstr ""
+
+msgid "Project Id"
+msgstr ""
+
+msgid "Firsebase Project Id"
+msgstr ""
+
+msgid "Bucket Storage"
+msgstr ""
+
+msgid "Firsebase Bucket Storage"
+msgstr ""
+
+msgid "Message Sender Id"
+msgstr ""
+
+msgid "Firsebase Message Sender Id"
+msgstr ""
+
+msgid "Private Server Key"
+msgstr ""
+
+msgid "Firsebase Server Key"
+msgstr ""
+
+msgid "Save Configurations"
+msgstr ""
+
+msgid "You cannot use this email it is used in ticket via email"
+msgstr ""
+
+msgid "Department has been stored"
+msgstr ""
+
+msgid "Department has not been stored"
+msgstr ""
+
+msgid "Department has been deleted"
+msgstr ""
+
+msgid "Department has not been deleted"
+msgstr ""
+
+msgid "Department in use cannot be delete"
+msgstr ""
+
+msgid "default has been changed"
+msgstr ""
+
+msgid "default has not been changed"
+msgstr ""
+
+msgid "Select Help Topic"
+msgstr ""
+
+msgid "Select Premade"
+msgstr ""
+
+msgid "No premade found"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Outgoing Email"
+msgstr ""
+
+msgid "Select Email"
+msgstr ""
+
+msgid "Tickets of this department will receive emails from this email"
+msgstr ""
+
+msgid "Receive Email"
+msgstr ""
+
+msgid "Append Signature"
+msgstr ""
+
+msgid "Append signature with reply"
+msgstr ""
+
+msgid "Signature"
+msgstr ""
+
+msgid "Save Department"
+msgstr ""
+
+msgid "User of this department will receive email on new ticket"
+msgstr ""
+
+msgid "Department Name"
+msgstr ""
+
+msgid "Search Departments"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Outgoing"
+msgstr ""
+
+msgid "Download has been stored"
+msgstr ""
+
+msgid "Download has not been stored"
+msgstr ""
+
+msgid "Download has been deleted"
+msgstr ""
+
+msgid "Download has not been deleted"
+msgstr ""
+
+msgid "Download All"
+msgstr ""
+
+msgid "File upload limit exceed"
+msgstr ""
+
+msgid "Error file ext mismatch"
+msgstr ""
+
+msgid "Attachments"
+msgstr ""
+
+msgid "Maximum File Size"
+msgstr ""
+
+msgid "File Extension Type"
+msgstr ""
+
+msgid "Add more"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Save Download"
+msgstr ""
+
+msgid "Add More File"
+msgstr ""
+
+msgid "Delete attachment"
+msgstr ""
+
+msgid "Attachment"
+msgstr ""
+
+msgid "Search Downloads"
+msgstr ""
+
+msgid "Files"
+msgstr ""
+
+msgid "----"
+msgstr ""
+
+msgid "Click here to give us feedback"
+msgstr ""
+
+msgid "Email Already Exist"
+msgstr ""
+
+msgid "Email has been stored"
+msgstr ""
+
+msgid "Email has not been stored"
+msgstr ""
+
+msgid "Email has been deleted"
+msgstr ""
+
+msgid "Email has not been deleted"
+msgstr ""
+
+msgid "in use cannot deleted"
+msgstr ""
+
+msgid "Hotmail"
+msgstr ""
+
+msgid "SMTP"
+msgstr ""
+
+msgid "False"
+msgstr ""
+
+msgid "True"
+msgstr ""
+
+msgid "TLS"
+msgstr ""
+
+msgid "SSL"
+msgstr ""
+
+msgid "Add System Email"
+msgstr ""
+
+msgid "Send Email By"
+msgstr ""
+
+msgid "Select Type"
+msgstr ""
+
+msgid "SMTP host type"
+msgstr ""
+
+msgid "SMTP host"
+msgstr ""
+
+msgid "SMTP Authentication"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "SMTP Secure"
+msgstr ""
+
+msgid "SMTP Port"
+msgstr ""
+
+msgid "Check Settings"
+msgstr ""
+
+msgid "If system not respond in 30 seconds"
+msgstr ""
+
+msgid "it means system unable to connect email server"
+msgstr ""
+
+msgid "Autoresponse"
+msgstr ""
+
+msgid "Please enter the hostname first"
+msgstr ""
+
+msgid "System email used for sending email"
+msgstr ""
+
+msgid "Email Address"
+msgstr ""
+
+msgid "Email template has been stored"
+msgstr ""
+
+msgid "Email template has not been stored"
+msgstr ""
+
+msgid "Body"
+msgstr ""
+
+msgid "Parameters"
+msgstr ""
+
+msgid "Tracking ID"
+msgstr ""
+
+msgid "Help Topic"
+msgstr ""
+
+msgid "Ticket URL"
+msgstr ""
+
+msgid "Ticket Priority"
+msgstr ""
+
+msgid "Department title"
+msgstr ""
+
+msgid "Group Title"
+msgstr ""
+
+msgid "Staff member name"
+msgstr ""
+
+msgid "Help topic title"
+msgstr ""
+
+msgid "Feedback URL"
+msgstr ""
+
+msgid "Ticket ID"
+msgstr ""
+
+msgid "User Name"
+msgstr ""
+
+msgid "Ticket Subject"
+msgstr ""
+
+msgid "Ticket Tracking ID"
+msgstr ""
+
+msgid "Close Date"
+msgstr ""
+
+msgid "Save email template"
+msgstr ""
+
+msgid "Overall Reports"
+msgstr ""
+
+msgid "Staff Members Report"
+msgstr ""
+
+msgid "Department Report"
+msgstr ""
+
+msgid "Departments Report"
+msgstr ""
+
+msgid "JS Support Ticket Overall Reports"
+msgstr ""
+
+msgid "Tickets By Status"
+msgstr ""
+
+msgid "NEW"
+msgstr ""
+
+msgid "Closed"
+msgstr ""
+
+msgid "Tickets By Departments"
+msgstr ""
+
+msgid "Tickets By Priorities"
+msgstr ""
+
+msgid "Tickets By Channel"
+msgstr ""
+
+msgid "Direct"
+msgstr ""
+
+msgid "Direct reply"
+msgstr ""
+
+msgid "Email reply"
+msgstr ""
+
+msgid "Tickets By staff"
+msgstr ""
+
+msgid "Report By"
+msgstr ""
+
+msgid "staff member"
+msgstr ""
+
+msgid "To"
+msgstr ""
+
+msgid "Report By Staff Members"
+msgstr ""
+
+msgid "Ticket status by days"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Tickets Staff"
+msgstr ""
+
+msgid "username"
+msgstr ""
+
+msgid "email"
+msgstr ""
+
+msgid "Average Rating"
+msgstr ""
+
+msgid "Average Time"
+msgstr ""
+
+msgid "Report By staff member"
+msgstr ""
+
+msgid "Rating"
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+msgid "In Progress"
+msgstr ""
+
+msgid "Merged"
+msgstr ""
+
+msgid "Report By department"
+msgstr ""
+
+msgid "Tickets By Department"
+msgstr ""
+
+msgid "User report"
+msgstr ""
+
+msgid "Users report"
+msgstr ""
+
+msgid "Users tickets"
+msgstr ""
+
+msgid "User Report"
+msgstr ""
+
+msgid "Users Tickets"
+msgstr ""
+
+msgid "Report By Departments"
+msgstr ""
+
+msgid "Tickets Data"
+msgstr ""
+
+msgid "Ticket Id"
+msgstr ""
+
+msgid "Assigned To"
+msgstr ""
+
+msgid "Last Reply"
+msgstr ""
+
+msgid "Requester User Name"
+msgstr ""
+
+msgid "Requester Name"
+msgstr ""
+
+msgid "Requester Email"
+msgstr ""
+
+msgid "Requester Phone"
+msgstr ""
+
+msgid "Requester help Topic"
+msgstr ""
+
+msgid "Ticket Attachment"
+msgstr ""
+
+msgid "Posted By"
+msgstr ""
+
+msgid "Note Title"
+msgstr ""
+
+msgid "Note Message"
+msgstr ""
+
+msgid "Posted Date"
+msgstr ""
+
+msgid "Note Attachment"
+msgstr ""
+
+msgid "User Time"
+msgstr ""
+
+msgid "System Time"
+msgstr ""
+
+msgid "Edit reason"
+msgstr ""
+
+msgid "Reply Date"
+msgstr ""
+
+msgid "Reply By"
+msgstr ""
+
+msgid "Reply Attachment"
+msgstr ""
+
+msgid "Edit Reason"
+msgstr ""
+
+msgid "Select user"
+msgstr ""
+
+msgid "Use Search Feature To Select The User"
+msgstr ""
+
+msgid "Start Date"
+msgstr ""
+
+msgid "End Date"
+msgstr ""
+
+msgid "Select Department"
+msgstr ""
+
+msgid "Staff Member"
+msgstr ""
+
+msgid "Select Staff Member"
+msgstr ""
+
+msgid "Select User"
+msgstr ""
+
+msgid "Select Priority"
+msgstr ""
+
+msgid "Select Ticket Status"
+msgstr ""
+
+msgid "Select Ticket Overdue Status"
+msgstr ""
+
+msgid "FAQ has been stored"
+msgstr ""
+
+msgid "FAQ has not been stored"
+msgstr ""
+
+msgid "FAQ has been deleted"
+msgstr ""
+
+msgid "FAQ has not been deleted"
+msgstr ""
+
+msgid "FAQ"
+msgstr ""
+
+msgid "Save FAQ"
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+msgid "Search FAQs"
+msgstr ""
+
+msgid "Add FAQs"
+msgstr ""
+
+msgid "Feedback has been stored"
+msgstr ""
+
+msgid "Feedback has not been stored"
+msgstr ""
+
+msgid "Feedback"
+msgstr ""
+
+msgid "Search Feedback"
+msgstr ""
+
+msgid "Submit Feedback"
+msgstr ""
+
+msgid "Field mark as published"
+msgstr ""
+
+msgid "Field mark as unpublished"
+msgstr ""
+
+msgid "Field mark as required"
+msgstr ""
+
+msgid "Field mark as not required"
+msgstr ""
+
+msgid "Field ordering down"
+msgstr ""
+
+msgid "Field ordering up"
+msgstr ""
+
+msgid "Field Parent has not been stored"
+msgstr ""
+
+msgid "Please Insert Atleast one value for every option"
+msgstr ""
+
+msgid "Field has not been stored"
+msgstr ""
+
+msgid "Field has been stored"
+msgstr ""
+
+msgid "Field has been updated"
+msgstr ""
+
+msgid "Parent Field"
+msgstr ""
+
+msgid "Edit Field"
+msgstr ""
+
+msgid "Field Title"
+msgstr ""
+
+msgid "User Published"
+msgstr ""
+
+msgid "Visitor published"
+msgstr ""
+
+msgid "Required"
+msgstr ""
+
+msgid "User Search"
+msgstr ""
+
+msgid "Visitor Search"
+msgstr ""
+
+msgid "Show On Listing"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Advanced"
+msgstr ""
+
+msgid "Field has not been deleted"
+msgstr ""
+
+msgid "Field has been deleted"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Add New"
+msgstr ""
+
+msgid "User Field"
+msgstr ""
+
+msgid "Text Field"
+msgstr ""
+
+msgid "Check Box"
+msgstr ""
+
+msgid "Drop Down"
+msgstr ""
+
+msgid "Text Area"
+msgstr ""
+
+msgid "Radio Button"
+msgstr ""
+
+msgid "upload file"
+msgstr ""
+
+msgid "Multi Select"
+msgstr ""
+
+msgid "Dependent Field"
+msgstr ""
+
+msgid "50%"
+msgstr ""
+
+msgid "100%"
+msgstr ""
+
+msgid "Field Type"
+msgstr ""
+
+msgid "Show on listing"
+msgstr ""
+
+msgid "Visitor Published"
+msgstr ""
+
+msgid "Field Size"
+msgstr ""
+
+msgid "Max Length"
+msgstr ""
+
+msgid "Columns"
+msgstr ""
+
+msgid "Rows"
+msgstr ""
+
+msgid "Use The Table Below To Add New Values"
+msgstr ""
+
+msgid "Add Value"
+msgstr ""
+
+msgid "Save User Field"
+msgstr ""
+
+msgid "Add User field"
+msgstr ""
+
+msgid "S.No"
+msgstr ""
+
+msgid "User Publish"
+msgstr ""
+
+msgid "Visitor Publish"
+msgstr ""
+
+msgid "Published"
+msgstr ""
+
+msgid "Unpublished"
+msgstr ""
+
+msgid "Not required"
+msgstr ""
+
+msgid "Can Not Unpublished"
+msgstr ""
+
+msgid "Can Not mark as not required"
+msgstr ""
+
+msgid "Cannot unpublish field"
+msgstr ""
+
+msgid "Help topic has been stored"
+msgstr ""
+
+msgid "Help topic has not been stored"
+msgstr ""
+
+msgid "Help topic has been deleted"
+msgstr ""
+
+msgid "Help topic has not been deleted"
+msgstr ""
+
+msgid "Help topic"
+msgstr ""
+
+msgid "Auto Response"
+msgstr ""
+
+msgid "Auto response for this topic"
+msgstr ""
+
+msgid "override department setting"
+msgstr ""
+
+msgid "Save Help Topic"
+msgstr ""
+
+msgid "Last Updated"
+msgstr ""
+
+msgid "Not updated"
+msgstr ""
+
+msgid "Cannot open file"
+msgstr ""
+
+msgid "New theme has been applied"
+msgstr ""
+
+msgid "Error applying new theme"
+msgstr ""
+
+msgid "Dir is not writable"
+msgstr ""
+
+msgid "Unable to connect to server"
+msgstr ""
+
+msgid "Language is not installed"
+msgstr ""
+
+msgid "Language directory is not writable"
+msgstr ""
+
+msgid "Required language is not installed but similar language like"
+msgstr ""
+
+msgid "is found in your system"
+msgstr ""
+
+msgid "Language code"
+msgstr ""
+
+msgid "Empty values"
+msgstr ""
+
+msgid "File is not writable"
+msgstr ""
+
+msgid "File Downloaded Successfully"
+msgstr ""
+
+msgid "Component Detail"
+msgstr ""
+
+msgid "Component for on-line ticket support system"
+msgstr ""
+
+msgid "Created By"
+msgstr ""
+
+msgid "Company"
+msgstr ""
+
+msgid "Plugin Name"
+msgstr ""
+
+msgid "Goto Web"
+msgstr ""
+
+msgid "Our Products"
+msgstr ""
+
+msgid "Your System Is Up To Date"
+msgstr ""
+
+msgid "New Version Is Available"
+msgstr ""
+
+msgid "Your Version"
+msgstr ""
+
+msgid "Available Version"
+msgstr ""
+
+msgid "Update To Latest"
+msgstr ""
+
+msgid "Statistics"
+msgstr ""
+
+msgid "Waiting Staff Reply"
+msgstr ""
+
+msgid "Waiting Your Reply"
+msgstr ""
+
+msgid "Misc"
+msgstr ""
+
+msgid "Support Area"
+msgstr ""
+
+msgid "Documentation"
+msgstr ""
+
+msgid "Forum"
+msgstr ""
+
+msgid "We'd love to hear from "
+msgstr ""
+
+msgid "You"
+msgstr ""
+
+msgid "Please write appreciated review at"
+msgstr ""
+
+msgid "Word Press Extension Directory"
+msgstr ""
+
+msgid "JS Support Ticket main control panel"
+msgstr ""
+
+msgid "Add new ticket form for both user and staff"
+msgstr ""
+
+msgid "My tickets for both user and staff"
+msgstr ""
+
+msgid "List downloads"
+msgstr ""
+
+msgid "Latest Downloads"
+msgstr ""
+
+msgid "Show latest downloads. Options"
+msgstr ""
+
+msgid "and"
+msgstr ""
+
+msgid "i.e."
+msgstr ""
+
+msgid "Popular Downloads"
+msgstr ""
+
+msgid "Show popular downloads. Options"
+msgstr ""
+
+msgid "List knowledge base"
+msgstr ""
+
+msgid "Latest knowledge base"
+msgstr ""
+
+msgid "Show latest knowledge base. Options"
+msgstr ""
+
+msgid "Popular knowledge base"
+msgstr ""
+
+msgid "Show popular knowledge base. Options"
+msgstr ""
+
+msgid "List FAQ's"
+msgstr ""
+
+msgid "Latest FAQ's"
+msgstr ""
+
+msgid "Show latest FAQ's. Options"
+msgstr ""
+
+msgid "Popular FAQ's"
+msgstr ""
+
+msgid "Show popular FAQ's. Options"
+msgstr ""
+
+msgid "List announcements"
+msgstr ""
+
+msgid "Latest Announcements"
+msgstr ""
+
+msgid "Show latest announcements. Options"
+msgstr ""
+
+msgid "Popular Announcements"
+msgstr ""
+
+msgid "Show popular announcements. Options"
+msgstr ""
+
+msgid "Color Chooser"
+msgstr ""
+
+msgid "Preset Theme"
+msgstr ""
+
+msgid "Color 1"
+msgstr ""
+
+msgid "Top menu heading background"
+msgstr ""
+
+msgid "Color 2"
+msgstr ""
+
+msgid "Top header line color"
+msgstr ""
+
+msgid "Button Hover"
+msgstr ""
+
+msgid "Heading text"
+msgstr ""
+
+msgid "Color 3"
+msgstr ""
+
+msgid "Content Background Color"
+msgstr ""
+
+msgid "Color 4"
+msgstr ""
+
+msgid "Content Text Color"
+msgstr ""
+
+msgid "Color 5"
+msgstr ""
+
+msgid "Border color"
+msgstr ""
+
+msgid "Lines"
+msgstr ""
+
+msgid "Color 6"
+msgstr ""
+
+msgid "Button Color"
+msgstr ""
+
+msgid "Color 7"
+msgstr ""
+
+msgid "Top header text color"
+msgstr ""
+
+msgid "Save Theme"
+msgstr ""
+
+msgid "Color Effect Preview"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "All Tickets"
+msgstr ""
+
+msgid "No Last Reply"
+msgstr ""
+
+msgid "Low"
+msgstr ""
+
+msgid "Blue"
+msgstr ""
+
+msgid "Red"
+msgstr ""
+
+msgid "Greenish"
+msgstr ""
+
+msgid "Brown"
+msgstr ""
+
+msgid "Orange"
+msgstr ""
+
+msgid "Green"
+msgstr ""
+
+msgid "Black"
+msgstr ""
+
+msgid "Get JS Support Ticket Translations"
+msgstr ""
+
+msgid "Get Translations"
+msgstr ""
+
+msgid "Select Translation"
+msgstr ""
+
+msgid """When WordPress language change to ro, JS Support Ticket language will auto ""change to ro"
+msgstr ""
+
+msgid "Contribute In Translation"
+msgstr ""
+
+msgid "Manual Download"
+msgstr ""
+
+msgid "Dashboard Links"
+msgstr ""
+
+msgid "Log In"
+msgstr ""
+
+msgid "Log Out"
+msgstr ""
+
+msgid "Section One"
+msgstr ""
+
+msgid "Staff Feedbacks"
+msgstr ""
+
+msgid "Latest Ticket"
+msgstr ""
+
+msgid "keep me login"
+msgstr ""
+
+msgid "First Name"
+msgstr ""
+
+msgid "Last Name"
+msgstr ""
+
+msgid "Repeat Password"
+msgstr ""
+
+msgid "Captcha"
+msgstr ""
+
+msgid "Category has been stored"
+msgstr ""
+
+msgid "Category has not been stored"
+msgstr ""
+
+msgid "Category has been deleted"
+msgstr ""
+
+msgid "Category has not been deleted"
+msgstr ""
+
+msgid "Category in use cannot deleted"
+msgstr ""
+
+msgid "Knowledge base article has been stored"
+msgstr ""
+
+msgid "Knowledge base article has not been stored"
+msgstr ""
+
+msgid "Article has been deleted"
+msgstr ""
+
+msgid "Article has not been deleted"
+msgstr ""
+
+msgid "Article"
+msgstr ""
+
+msgid "Parent category does not have this type."
+msgstr ""
+
+msgid "Would you like to add this type to Parent Category ?"
+msgstr ""
+
+msgid "Child category have this type,"
+msgstr ""
+
+msgid "You cannot unmark it."
+msgstr ""
+
+msgid "Draft"
+msgstr ""
+
+msgid "Meta Description"
+msgstr ""
+
+msgid "Meta Keywords"
+msgstr ""
+
+msgid "Save Knowledge Base"
+msgstr ""
+
+msgid "Please select atleast one category for"
+msgstr ""
+
+msgid "Category Name"
+msgstr ""
+
+msgid "Category For"
+msgstr ""
+
+msgid "Logo"
+msgstr ""
+
+msgid "Save Category"
+msgstr ""
+
+msgid "Meta Data Options"
+msgstr ""
+
+msgid "Category Title"
+msgstr ""
+
+msgid "Article Attachment"
+msgstr ""
+
+msgid "Search knowledgebase"
+msgstr ""
+
+msgid "Search Category"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "knowledgebase"
+msgstr ""
+
+msgid "Mail has not been mark as read"
+msgstr ""
+
+msgid "Mail has been mark as read"
+msgstr ""
+
+msgid "Mail has been sent"
+msgstr ""
+
+msgid "Mail has not been sent"
+msgstr ""
+
+msgid "Mail has been deleted"
+msgstr ""
+
+msgid "Mail has not been deleted"
+msgstr ""
+
+msgid "is in use cannot be delete"
+msgstr ""
+
+msgid "Mail cannot mark as read"
+msgstr ""
+
+msgid "Mail has been marked as read"
+msgstr ""
+
+msgid "Mail cannot mark as unread"
+msgstr ""
+
+msgid "Mail has been marked as unread"
+msgstr ""
+
+msgid "Compose"
+msgstr ""
+
+msgid " )  "
+msgstr ""
+
+msgid "Select Staff"
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid "Read"
+msgstr ""
+
+msgid "Unread"
+msgstr ""
+
+msgid "To Use This Feature You Must Be Staff Member"
+msgstr ""
+
+msgid "Re"
+msgstr ""
+
+msgid "Reply"
+msgstr ""
+
+msgid "Type Message"
+msgstr ""
+
+msgid "Search Email"
+msgstr ""
+
+msgid "Replies"
+msgstr ""
+
+msgid "Internal Note Has Been Posted"
+msgstr ""
+
+msgid "Successfully"
+msgstr ""
+
+msgid "Internal Note Has Not Been Posted"
+msgstr ""
+
+msgid "Post Internal Note"
+msgstr ""
+
+msgid "Internal note is posted by"
+msgstr ""
+
+msgid "Pass"
+msgstr ""
+
+msgid "Thanks for subscribing"
+msgstr ""
+
+msgid "has been changed"
+msgstr ""
+
+msgid "has not been changed"
+msgstr ""
+
+msgid "JS Support Ticket Settings"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Ticket Settings"
+msgstr ""
+
+msgid "Complete"
+msgstr ""
+
+msgid "Configurations complete"
+msgstr ""
+
+msgid "Step 4 of 4"
+msgstr ""
+
+msgid "Setting Completed"
+msgstr ""
+
+msgid "Setting you have applied has been save successfully"
+msgstr ""
+
+msgid "Finish"
+msgstr ""
+
+msgid "Setting Complete"
+msgstr ""
+
+msgid "General Configurations"
+msgstr ""
+
+msgid "Step 1 of 4"
+msgstr ""
+
+msgid "Enter the site title"
+msgstr ""
+
+msgid "Date format for plugin"
+msgstr ""
+
+msgid "Show Breadcrumbs"
+msgstr ""
+
+msgid "Show navigation in breadcrumbs"
+msgstr ""
+
+msgid "Upload file size in KB's"
+msgstr ""
+
+msgid "File Extension"
+msgstr ""
+
+msgid "Sequential"
+msgstr ""
+
+msgid "Feedback Configurations"
+msgstr ""
+
+msgid "Step 3 of 4"
+msgstr ""
+
+msgid ":"
+msgstr ""
+
+msgid "Set Email Delay Time"
+msgstr ""
+
+msgid " :"
+msgstr ""
+
+msgid "Set Email Delay"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "2"
+msgstr ""
+
+msgid "3"
+msgstr ""
+
+msgid "Ticket Configurations"
+msgstr ""
+
+msgid "Step 2 of 4"
+msgstr ""
+
+msgid "Enable/Disable Open Ticket"
+msgstr ""
+
+msgid "Ticket ID sequence"
+msgstr ""
+
+msgid "Set ticket id sequential or random"
+msgstr ""
+
+msgid "Maximum Tickets"
+msgstr ""
+
+msgid "Set Maximum Ticket Per user"
+msgstr ""
+
+msgid "Maximum Open Ticket"
+msgstr ""
+
+msgid "Maximum Open ticket"
+msgstr ""
+
+msgid "Reopen Ticket within Days"
+msgstr ""
+
+msgid "Ticket can be reopen within given number of days"
+msgstr ""
+
+msgid "Show Captcha to visitor on ticket form"
+msgstr ""
+
+msgid "Enable/Disable Captcha on Ticket Form"
+msgstr ""
+
+msgid "Own Captcha operands"
+msgstr ""
+
+msgid "Enable/Disable Own Captcha subtraction"
+msgstr ""
+
+msgid "Enable Print Ticket"
+msgstr ""
+
+msgid "Enable/Disable Print Ticket"
+msgstr ""
+
+msgid "Premade department message has been stored"
+msgstr ""
+
+msgid "Premade department message has not been stored"
+msgstr ""
+
+msgid "Premade department message has been deleted"
+msgstr ""
+
+msgid "Premade department message has not been deleted"
+msgstr ""
+
+msgid "Premade message"
+msgstr ""
+
+msgid "Add Premade Message"
+msgstr ""
+
+msgid "Department Under Which The Answer Will Be Made Available"
+msgstr ""
+
+msgid "Save premade message"
+msgstr ""
+
+msgid "Priority Title Already Exist"
+msgstr ""
+
+msgid "Priority has been stored"
+msgstr ""
+
+msgid "Priority has not been stored"
+msgstr ""
+
+msgid "Priority has been deleted"
+msgstr ""
+
+msgid "Priority has not been deleted"
+msgstr ""
+
+msgid "Default priority cannot delete"
+msgstr ""
+
+msgid "Priority has been make default"
+msgstr ""
+
+msgid "Priority has not been make default"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Save Priority"
+msgstr ""
+
+msgid "Date Interval"
+msgstr ""
+
+msgid "(Days/Hours)"
+msgstr ""
+
+msgid "Order"
+msgstr ""
+
+msgid "Please wait installation in progress"
+msgstr ""
+
+msgid "JS Support Ticket Pro"
+msgstr ""
+
+msgid "Most Poweful Wordpress Help Desk Plugin"
+msgstr ""
+
+msgid "Activation key"
+msgstr ""
+
+msgid "PHP version smaller then recommended"
+msgstr ""
+
+msgid "CURL not exist"
+msgstr ""
+
+msgid "GD library not exist"
+msgstr ""
+
+msgid "Zip library not exist"
+msgstr ""
+
+msgid "Directory permissions error"
+msgstr ""
+
+msgid "directory is not writable"
+msgstr ""
+
+msgid "Database create table not allowed"
+msgstr ""
+
+msgid "Database insert record not allowed"
+msgstr ""
+
+msgid "Database update record not allowed"
+msgstr ""
+
+msgid "Database delete record not allowed"
+msgstr ""
+
+msgid "Database drop table not allowed"
+msgstr ""
+
+msgid "Error file not downloaded"
+msgstr ""
+
+msgid "Start"
+msgstr ""
+
+msgid "Most Powerful Wordpress Help Desk Plugin"
+msgstr ""
+
+msgid "Tickets Updater"
+msgstr ""
+
+msgid "JS Support Ticket Pro Installer"
+msgstr ""
+
+msgid "Permissions"
+msgstr ""
+
+msgid "Installation"
+msgstr ""
+
+msgid "Please insert activation key and press start"
+msgstr ""
+
+msgid "It may take few minutes"
+msgstr ""
+
+msgid "JS Ticket Pro Installed Successfully"
+msgstr ""
+
+msgid "Thanks For Installing JS Ticket Pro"
+msgstr ""
+
+msgid "Start using"
+msgstr ""
+
+msgid "Message field cannot be empty"
+msgstr ""
+
+msgid "Reply has been posted"
+msgstr ""
+
+msgid "Reply on ticket"
+msgstr ""
+
+msgid "visitor"
+msgstr ""
+
+msgid "Reply has not been posted"
+msgstr ""
+
+msgid "Ticket is replied by"
+msgstr ""
+
+msgid "Reply Has been Posted"
+msgstr ""
+
+msgid "Reply Has Not been Posted"
+msgstr ""
+
+msgid "Dates"
+msgstr ""
+
+msgid "Report By Department"
+msgstr ""
+
+msgid "Export Data"
+msgstr ""
+
+msgid "Time Taken"
+msgstr ""
+
+msgid "out of"
+msgstr ""
+
+msgid "Overall Report"
+msgstr ""
+
+msgid "Ticket by departments"
+msgstr ""
+
+msgid "Tickets By Priority"
+msgstr ""
+
+msgid "Tickets by priorities"
+msgstr ""
+
+msgid "Staff Member Tickets"
+msgstr ""
+
+msgid "Tickets By Status And Priorities"
+msgstr ""
+
+msgid "Tickets By Staff"
+msgstr ""
+
+msgid "Based on"
+msgstr ""
+
+msgid "Customer Satisfaction"
+msgstr ""
+
+msgid "NA"
+msgstr ""
+
+msgid "Excellent"
+msgstr ""
+
+msgid "Happy"
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "Sad"
+msgstr ""
+
+msgid "Angry"
+msgstr ""
+
+msgid "Report By Staff Member"
+msgstr ""
+
+msgid "Average rating"
+msgstr ""
+
+msgid "Average time"
+msgstr ""
+
+msgid "Tickets not assigned to the staff member"
+msgstr ""
+
+msgid "Minutes"
+msgstr ""
+
+msgid "Report By User"
+msgstr ""
+
+msgid "Report By Users"
+msgstr ""
+
+msgid "Users"
+msgstr ""
+
+msgid "Ticket Status By Departments"
+msgstr ""
+
+msgid "Search Reports"
+msgstr ""
+
+msgid "Staff Report"
+msgstr ""
+
+msgid "Staff Tickets"
+msgstr ""
+
+msgid "Reports Statistics"
+msgstr ""
+
+msgid "Staff Members Reports"
+msgstr ""
+
+msgid "Already exists"
+msgstr ""
+
+msgid "Role has been stored"
+msgstr ""
+
+msgid "Role has not been stored"
+msgstr ""
+
+msgid "Role has been deleted"
+msgstr ""
+
+msgid "Role has not been deleted"
+msgstr ""
+
+msgid "Role"
+msgstr ""
+
+msgid "Department Section"
+msgstr ""
+
+msgid "Select / Deselect All"
+msgstr ""
+
+msgid "Ticket Section"
+msgstr ""
+
+msgid "Staff Section"
+msgstr ""
+
+msgid "Knowledge Base Section"
+msgstr ""
+
+msgid "FAQ Section"
+msgstr ""
+
+msgid "Download Section"
+msgstr ""
+
+msgid "Announcement Section"
+msgstr ""
+
+msgid "Mail Section"
+msgstr ""
+
+msgid "Save Role"
+msgstr ""
+
+msgid "Role Permission"
+msgstr ""
+
+msgid "Role Name"
+msgstr ""
+
+msgid "Search Roles"
+msgstr ""
+
+msgid "Add New Role"
+msgstr ""
+
+msgid "User already staff member"
+msgstr ""
+
+msgid "Staff member has not been stored"
+msgstr ""
+
+msgid "Staff member has been stored"
+msgstr ""
+
+msgid "Staff member has been deleted"
+msgstr ""
+
+msgid "Staff member has not been deleted"
+msgstr ""
+
+msgid "Staff member in use cannot deleted"
+msgstr ""
+
+msgid "User ID"
+msgstr ""
+
+msgid "Select Role"
+msgstr ""
+
+msgid "Office Phone"
+msgstr ""
+
+msgid "Extension"
+msgstr ""
+
+msgid "Mobile No"
+msgstr ""
+
+msgid "Picture"
+msgstr ""
+
+msgid "Account Status"
+msgstr ""
+
+msgid "extension"
+msgstr ""
+
+msgid "Append"
+msgstr ""
+
+msgid "Save Staff Member"
+msgstr ""
+
+msgid "Save Permissions"
+msgstr ""
+
+msgid "Full Name"
+msgstr ""
+
+msgid "Some thing wrong try again later"
+msgstr ""
+
+msgid "Phone No"
+msgstr ""
+
+msgid "Add New Staff"
+msgstr ""
+
+msgid "Search by username"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "Record not found"
+msgstr ""
+
+msgid "Banned email cannot create ticket"
+msgstr ""
+
+msgid "Limit exceeds maximum tickets"
+msgstr ""
+
+msgid "Limit exceeds maximum open tickets"
+msgstr ""
+
+msgid "Incorrect Captcha code"
+msgstr ""
+
+msgid "Due date error is not valid"
+msgstr ""
+
+msgid "Ticket has not been created"
+msgstr ""
+
+msgid "Ticket has been created"
+msgstr ""
+
+msgid "has been created"
+msgstr ""
+
+msgid "Guest"
+msgstr ""
+
+msgid "Ticket is updated by"
+msgstr ""
+
+msgid "Ticket is created by"
+msgstr ""
+
+msgid "Ticket has been deleted"
+msgstr ""
+
+msgid "Ticket has not been deleted"
+msgstr ""
+
+msgid "in use cannot be deleted"
+msgstr ""
+
+msgid "Ticket already closed"
+msgstr ""
+
+msgid "Ticket has been closed"
+msgstr ""
+
+msgid "Ticket has not been closed"
+msgstr ""
+
+msgid "System"
+msgstr ""
+
+msgid "Ticket is closed by"
+msgstr ""
+
+msgid "Ticket has been locked"
+msgstr ""
+
+msgid "Ticket has not been locked"
+msgstr ""
+
+msgid "Ticket is locked by"
+msgstr ""
+
+msgid "Ticket has been unlocked"
+msgstr ""
+
+msgid "Ticket has not been unlocked"
+msgstr ""
+
+msgid "Ticket is unlocked by"
+msgstr ""
+
+msgid "Your are not allowed"
+msgstr ""
+
+msgid "Department has been transfered"
+msgstr ""
+
+msgid "Department has not been transfered"
+msgstr ""
+
+msgid "Ticket Department Transfer"
+msgstr ""
+
+msgid "Department is transfered by"
+msgstr ""
+
+msgid "Assigned to staff"
+msgstr ""
+
+msgid "Not assigned to staff"
+msgstr ""
+
+msgid "Assign ticket to staff"
+msgstr ""
+
+msgid "Ticket is assigned to staff by"
+msgstr ""
+
+msgid "Ticket already have same priority"
+msgstr ""
+
+msgid "Priority has been changed"
+msgstr ""
+
+msgid "Priority has not been changed"
+msgstr ""
+
+msgid "Change Priority"
+msgstr ""
+
+msgid "Ticket priority is changed by"
+msgstr ""
+
+msgid "Email already banned"
+msgstr ""
+
+msgid "Email has been banned"
+msgstr ""
+
+msgid "Email has not been banned"
+msgstr ""
+
+msgid "Email is banned by"
+msgstr ""
+
+msgid "Ticket already marked overdue"
+msgstr ""
+
+msgid "Ticket has been marked as overdue"
+msgstr ""
+
+msgid "Ticket has not been marked as overdue"
+msgstr ""
+
+msgid "Mark overdue"
+msgstr ""
+
+msgid "Ticket is marked as overdue by"
+msgstr ""
+
+msgid "Ticket has been unmarked as overdue"
+msgstr ""
+
+msgid "Ticket has not been unmarked as overdue"
+msgstr ""
+
+msgid "Unmark overdue"
+msgstr ""
+
+msgid "Ticket is unmarked as overdue by"
+msgstr ""
+
+msgid "Ticket has been reopened"
+msgstr ""
+
+msgid "Ticket has not been reopened"
+msgstr ""
+
+msgid "Reopen Ticket"
+msgstr ""
+
+msgid "Ticket is reopened by"
+msgstr ""
+
+msgid "Ticket reopen time limit end"
+msgstr ""
+
+msgid "Email has been unbanned"
+msgstr ""
+
+msgid "Email has not been unbanned"
+msgstr ""
+
+msgid "Unbanned Email"
+msgstr ""
+
+msgid "Email is unbanned by"
+msgstr ""
+
+msgid "Email cannot be unbanned"
+msgstr ""
+
+msgid "Ticket already marked in progress"
+msgstr ""
+
+msgid "Ticket has been marked as in progress"
+msgstr ""
+
+msgid "Ticket has not been marked as in progress"
+msgstr ""
+
+msgid "In progress ticket"
+msgstr ""
+
+msgid "Ticket is marked as in progress by"
+msgstr ""
+
+msgid "Ticket has been closed due to merged with"
+msgstr ""
+
+msgid "Merge Ticket"
+msgstr ""
+
+msgid "has been merged into"
+msgstr ""
+
+msgid "Ticket ID #"
+msgstr ""
+
+msgid "Search Ticket to merge into"
+msgstr ""
+
+msgid "Edit Last Reply"
+msgstr ""
+
+msgid "Merge Ticket Latest Reply"
+msgstr ""
+
+msgid "Merge"
+msgstr ""
+
+msgid "Ticket Has been Merged"
+msgstr ""
+
+msgid "Ticket Has not been Merged"
+msgstr ""
+
+msgid "No help topic found"
+msgstr ""
+
+msgid "Internal Note"
+msgstr ""
+
+msgid "Reason for edit"
+msgstr ""
+
+msgid "Waiting staff reply"
+msgstr ""
+
+msgid "Waiting customer reply"
+msgstr ""
+
+msgid "Close ticket"
+msgstr ""
+
+msgid "Some values are not acceptable please retry"
+msgstr ""
+
+msgid "Edit Reply"
+msgstr ""
+
+msgid "Reason For Editing"
+msgstr ""
+
+msgid "Resolve conflict"
+msgstr ""
+
+msgid "Ticket Details"
+msgstr ""
+
+msgid "Lock"
+msgstr ""
+
+msgid "Waiting reply"
+msgstr ""
+
+msgid "Replied"
+msgstr ""
+
+msgid "Ticket History"
+msgstr ""
+
+msgid "Day"
+msgstr ""
+
+msgid "Today"
+msgstr ""
+
+msgid "Ago"
+msgstr ""
+
+msgid "Not Given"
+msgstr ""
+
+msgid "Created via Email"
+msgstr ""
+
+msgid "More Option"
+msgstr ""
+
+msgid "Print"
+msgstr ""
+
+msgid "Unmark Overdue"
+msgstr ""
+
+msgid "Mark in Progress"
+msgstr ""
+
+msgid "Requester Info"
+msgstr ""
+
+msgid "Show Detail"
+msgstr ""
+
+msgid "More Detail"
+msgstr ""
+
+msgid "Posted by"
+msgstr ""
+
+msgid "Edit Time"
+msgstr ""
+
+msgid "Ticket Thread"
+msgstr ""
+
+msgid "Post Reply"
+msgstr ""
+
+msgid "Assign to Staff"
+msgstr ""
+
+msgid "Response"
+msgstr ""
+
+msgid "Own Signature"
+msgstr ""
+
+msgid "Department Signature"
+msgstr ""
+
+msgid "JNone"
+msgstr ""
+
+msgid "Assign to me"
+msgstr ""
+
+msgid "Close on reply"
+msgstr ""
+
+msgid "Post internal note"
+msgstr ""
+
+msgid "Reason For Department Transfer"
+msgstr ""
+
+msgid "Transfer"
+msgstr ""
+
+msgid "Assign to Staff Member"
+msgstr ""
+
+msgid "Assign"
+msgstr ""
+
+msgid "Select staff"
+msgstr ""
+
+msgid "Date start"
+msgstr ""
+
+msgid "Date end"
+msgstr ""
+
+msgid "Close due to merged"
+msgstr ""
+
+msgid "Ticket is locked"
+msgstr ""
+
+msgid "Are you sure to enforce delete"
+msgstr ""
+
+msgid "Enforce delete"
+msgstr ""
+
+msgid "Search Ticket"
+msgstr ""
+
+msgid "Or"
+msgstr ""
+
+msgid "Closed and Merged"
+msgstr ""
+
+msgid "Assign To Me"
+msgstr ""
+
+msgid "Assigned To Me"
+msgstr ""
+
+msgid "Message Logs"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Edit Timer"
+msgstr ""
+
+msgid "Reason For Editing the timer"
+msgstr ""
+
+msgid ","
+msgstr ""
+
+msgid "Total Time Taken"
+msgstr ""
+
+msgid "On Waiting"
+msgstr ""
+
+msgid "Reopen"
+msgstr ""
+
+msgid "History"
+msgstr ""
+
+msgid "Are you sure to delete ticket"
+msgstr ""
+
+msgid "Are you sure to close ticket"
+msgstr ""
+
+msgid "Unlock"
+msgstr ""
+
+msgid "Lock"
+msgstr ""
+
+msgid "Internal Notes"
+msgstr ""
+
+msgid "("
+msgstr ""
+
+msgid ")"
+msgstr ""
+
+msgid "Reply a message"
+msgstr ""
+
+msgid "Time Track"
+msgstr ""
+
+msgid "Assign Ticket"
+msgstr ""
+
+msgid "Type Internal Note"
+msgstr ""
+
+msgid "Type Note for Department"
+msgstr ""
+
+msgid "Assigning Note"
+msgstr ""
+
+msgid "Check Status"
+msgstr ""
+
+msgid "Service is running please close the page"
+msgstr ""
+
+msgid """Admin email address and ticket via email email address cannot be same, your ""ticket via email will not be work."
+msgstr ""
+
+msgid "Your setting is working please save the setting"
+msgstr ""
+
+msgid "Connection established but we cannot ready any email"
+msgstr ""
+
+msgid "IMAP is either not installed or not enable in your server"
+msgstr ""
+
+msgid "Email Address Already Exist"
+msgstr ""
+
+msgid "Ticket Via Email has been stored"
+msgstr ""
+
+msgid "Ticket Via Email has not been stored"
+msgstr ""
+
+msgid "Please enable ticket via email setting first"
+msgstr ""
+
+msgid "Ticket via email"
+msgstr ""
+
+msgid "Enable ticket via email"
+msgstr ""
+
+msgid "Ticket Type"
+msgstr ""
+
+msgid "Which email type to read"
+msgstr ""
+
+msgid "Save attachments if found in email"
+msgstr ""
+
+msgid "Host Type"
+msgstr ""
+
+msgid "Select your email service provider"
+msgstr ""
+
+msgid "Host Name"
+msgstr ""
+
+msgid "Enabled SSL"
+msgstr ""
+
+msgid "Do you have enabled SSL on your domain"
+msgstr ""
+
+msgid "Host Port Number"
+msgstr ""
+
+msgid "Host port number to read email from"
+msgstr ""
+
+msgid "Email address to read emails"
+msgstr ""
+
+msgid "Password for given email address"
+msgstr ""
+
+msgid "Save Settings"
+msgstr ""
+
+msgid "Cron Job"
+msgstr ""
+
+msgid "Web Cron Job"
+msgstr ""
+
+msgid "Wget"
+msgstr ""
+
+msgid "Curl"
+msgstr ""
+
+msgid "PHP Script"
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+msgid "Configuration of a backup job with webcron org"
+msgstr ""
+
+msgid "Name of cron job"
+msgstr ""
+
+msgid "Log in to webcron org in the cron area click on"
+msgstr ""
+
+msgid "Timeout"
+msgstr ""
+
+msgid """180 sec if the doesnot complete increase it most sites will work with a ""setting of 180 600"
+msgstr ""
+
+msgid "URL you want to execute"
+msgstr ""
+
+msgid "Leave this blank"
+msgstr ""
+
+msgid "Execution time"
+msgstr ""
+
+msgid "That the grid below the other options select when and how"
+msgstr ""
+
+msgid "Alerts"
+msgstr ""
+
+msgid """If you have already set up alerts methods in webcron org interface we ""recommend choosing an alert"
+msgstr ""
+
+msgid "Cron scheduling using wget"
+msgstr ""
+
+msgid "Cron scheduling using Curl"
+msgstr ""
+
+msgid "OR"
+msgstr ""
+
+msgid "Custom PHP script to run the cron job"
+msgstr ""
+
+msgid "Sorry the cron job didnot work"
+msgstr ""
+
+msgid "URL for use with your won scripts and third party"
+msgstr ""
+
+msgid "Recommended run script hourly"
+msgstr ""
+
+msgid "Add Ticket Via Email"
+msgstr ""
+
+msgid "Ticket Email Type"
+msgstr ""
+
+msgid "Display name"
+msgstr ""
+
+msgid "Files cannot be upload due to read write permission"
+msgstr ""
+
+msgid "Oooops"
+msgstr ""
+
+msgid "Publish"
+msgstr ""
+
+msgid "Assign User Permissions"
+msgstr ""
+
+msgid "Assign User Permissions"
+msgstr ""
+
+msgid "Assign to"
+msgstr ""
+
+msgid "Change ticket priority"
+msgstr ""
+
+msgid "Phone Ext"
+msgstr ""
+
+msgid "System Slug"
+msgstr ""
+
+msgid "Print ticket"
+msgstr ""
+
+msgid "Add Files"
+msgstr ""
+
+msgid "Control Panel Coulmn"
+msgstr ""
+
+msgid "Display #"
+msgstr ""
+
+msgid "Due Date"
+msgstr ""
+
+msgid "Field Name"
+msgstr ""
+
+msgid "Invalid data directory"
+msgstr ""
+
+msgid "Jerror Alertnoauthor"
+msgstr ""
+
+msgid "Language Translations"
+msgstr ""
+
+msgid "Not default"
+msgstr ""
+
+msgid "Operation Cancel"
+msgstr ""
+
+msgid "Page not found"
+msgstr ""
+
+msgid "Premade"
+msgstr ""
+
+msgid "Read only"
+msgstr ""
+
+msgid "Select parent field"
+msgstr ""
+
+msgid "Select','js-jobs"
+msgstr ""
+
+msgid "Staff Members Control Panel Links"
+msgstr ""
+
+msgid "Staff Members Top Menu Links"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "User Top Menu Links"
+msgstr ""
+
+msgid "Values Between 1 T0 12 Default Is 3"
+msgstr ""
+
+msgid "show print ticket icon to user on ticketdetail page"
+msgstr ""
+
+msgid "Feedback Email Settings"
+msgstr ""
+
+msgid "Export Tickets"
+msgstr ""
+
+msgid "Ticket can be transferred to any other staff member"
+msgstr ""
+
+msgid "Pro Features"
+msgstr ""
+
+msgid "Upgrade"
+msgstr ""
+
+msgid "Feature available in pro version only"
+msgstr ""
+
+msgid "JS Support Ticket Pro Feature"
+msgstr ""
+
+msgid "Unlimited color tools to get desire result"
+msgstr ""
+
+msgid "Internal Mail"
+msgstr ""
+
+msgid "Access Control Level"
+msgstr ""
+
+msgid "Access control level can limit your staff to do specific task"
+msgstr ""
+
+msgid "Staff member can be created and reply on your customer tickets"
+msgstr ""
+
+msgid "Help topic can be add with respect to departments"
+msgstr ""
+
+msgid "Help topic can be add according to departments"
+msgstr ""
+
+msgid "You can create and maintain knowledge Base for your ticket system"
+msgstr ""
+
+msgid "You can add downloads for your customers"
+msgstr ""
+
+msgid "Add announcements for your support system"
+msgstr ""
+
+msgid "You can Manage FAQs"
+msgstr ""
+
+msgid "You can ban and unban any spam email address"
+msgstr ""
+
+msgid "System will read your email and create tickets"
+msgstr ""
+
+msgid "Internal notes are ticket based for staff members and administrator"
+msgstr ""
+
+msgid "Ticket can also be transferred to any other department"
+msgstr ""
+
+msgid "Activity Log"
+msgstr ""
+
+msgid "Ticket action history with time and user name"
+msgstr ""
+
+msgid "Customer Feedback"
+msgstr ""
+
+msgid "Customer can provide feedback that can be used to improve services"
+msgstr ""
+
+msgid "RTL Supported"
+msgstr ""
+
+msgid "JS Support Ticket auto adjusts to RTL or LTR without any problem."
+msgstr ""
+
+msgid "Staff Time Tracking"
+msgstr ""
+
+msgid "Visitor Ticket Open"
+msgstr ""
+
+msgid "Visitor can also open ticket in your support system"
+msgstr ""
+
+msgid "You can now lock or unlock any ticket at any time"
+msgstr ""
+
+msgid "Pro version only"
+msgstr ""
+
+msgid "Satisfaction Reports"
+msgstr ""
+
+msgid "Dir not exist or writable"
+msgstr ""
+
+msgid "is not writable"
+msgstr ""
+
+msgid "Issue Summary"
+msgstr ""
+
+msgid "Duedate Ticket"
+msgstr ""
+
+msgid "New Ticket Notification"
+msgstr ""
+
+msgid "Assign Role To User"
+msgstr ""
+
+msgid "Add User"
+msgstr ""
+
+msgid "Edit User"
+msgstr ""
+
+msgid "Delete Department"
+msgstr ""
+
+msgid "View Department"
+msgstr ""
+
+msgid "Delete Role"
+msgstr ""
+
+msgid "Delete User"
+msgstr ""
+
+msgid "View Staff Reports"
+msgstr ""
+
+msgid "Delete Category"
+msgstr ""
+
+msgid "Delete Knowledge Base"
+msgstr ""
+
+msgid "View FAQ"
+msgstr ""
+
+msgid "Delete FAQ"
+msgstr ""
+
+msgid "View Download"
+msgstr ""
+
+msgid "View Announcement"
+msgstr ""
+
+msgid "Allow Mail System"
+msgstr ""
+
+msgid "Internal Note Title"
+msgstr ""
+
+msgid "High"
+msgstr ""
+
+msgid "JS Support Ticket System"
+msgstr ""
+
+msgid "Assign To"
+msgstr ""
+
+msgid "Remarks"
+msgstr ""
+
+msgid "Access Denied"
+msgstr ""
+
+msgid "Department in use cannot be deleted"
+msgstr ""
+
+msgid "Mail mark as read"
+msgstr ""
+
+msgid "Mail mark as unread"
+msgstr ""
+
+msgid "Set no. of days to mark ticket as overdue"
+msgstr ""
+
+msgid "Admin can export tickets in csv format to keep record"
+msgstr ""
+
+msgid "180 sec if the doesnot complete increase it most sites will work with a setting of 180 600"
+msgstr ""
+
+msgid "If ticket department email is not selected then this email is used to send emails"
+msgstr ""
+
+msgid "If you have already set up alerts methods in webcron org interface we recommend choosing an alert"
+msgstr ""
+
+msgid "Select JS Support Ticket default page, on action system will redirect on selected page. If not select default page, email links and support icon might not work."
+msgstr ""
+
+msgid "Select priority"
+msgstr ""
+
+msgid "Set the slug name for JS Support Ticket. Make sure it is unique in pages and posts. In future, if same name page or post is create, system will rename and add a number with slug."
+msgstr ""
+
+msgid "Staff member can provide time and description while working on a ticket"
+msgstr ""
+
+msgid "staff reports can be used to evaluate performance of different staff members"
+msgstr ""
+
+msgid "Department reports can be used to evaluate performance of different departments"
+msgstr ""
+
+msgid "Internal mail system for communication withing staffs and administrator"
+msgstr ""
+
+msgid "Internal mail system are used for communication within staffs and administrator"
+msgstr ""
+
+msgid "You need to rename the existing data directory in file system before changing the data directory name"
+msgstr ""
+
+msgid "When Joomla language change to ro, JS Jobs language will auto change to ro"
+msgstr ""
+
+msgid "Upload file"
+msgstr ""
+
+msgid "Ticket mark in progress"
+msgstr ""
+
+msgid "Submit Ticket"
+msgstr ""
+
+msgid "Reply has not been stored"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid "New Mail Receviced"
+msgstr ""
+
+msgid "New Mail Message Recevied"
+msgstr ""
+
+msgid "Get JS Tickets Translations"
+msgstr ""
+
+msgid "Field mark ordering down"
+msgstr ""
+
+msgid "Enable print ticket"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "View Ticket"
+msgstr ""
+
+msgid "Menu Setting"
+msgstr ""
+
+msgid "Login into your account"
+msgstr ""
+
+msgid "Delete Announcement"
+msgstr ""
+
+msgid "Delete Download"
+msgstr ""
+
+msgid "View Knowledge Base"
+msgstr ""
+
+msgid "View Category"
+msgstr ""
+
+msgid "View Department Reports"
+msgstr ""
+
+msgid "View User"
+msgstr ""
+
+msgid "View Role"
+msgstr ""
+
+msgid "Assign Role Permissions"
+msgstr ""
+
+msgid "Edit Own Time"
+msgstr ""
+
+msgid "Fields ordering"
+msgstr ""
+
+msgid "Field"
+msgstr ""
+
+msgid "Shortcode has been successfully added"
+msgstr ""
+
+msgid "Shortcode has not been added"
+msgstr ""
+
+msgid "Get PRO Version"
+msgstr ""
+
+msgid "GETTING START"
+msgstr ""
+
+msgid "Display in front end"
+msgstr ""
+
+msgid "To display JS Support Ticket control panel at front end, add"
+msgstr ""
+
+msgid "[jssupportticket]"
+msgstr ""
+
+msgid "shortcode in any page or post"
+msgstr ""
+
+msgid "Page already created"
+msgstr ""
+
+msgid "System is already create a page with shortcode for you."
+msgstr ""
+
+msgid "JS Support Ticket page current status is"
+msgstr ""
+
+msgid "You can add shortcode in any page, please scorll down"
+msgstr ""
+
+msgid "Add shortcode in page"
+msgstr ""
+
+msgid "Add JS Support Ticket control panel"
+msgstr ""
+
+msgid "shortcode"
+msgstr ""
+
+msgid "does not have this type"
+msgstr ""
+
+msgid "Add into page"
+msgstr ""
+
+msgid "Click here to view all shortcodes"
+msgstr ""
+
+msgid "Check system emails"
+msgstr ""
+
+msgid "System emails use to send email alerts"
+msgstr ""
+
+msgid "Admin > System Emails"
+msgstr ""
+
+msgid "Click here to view system emails"
+msgstr ""
+
+msgid "Check Admin Email"
+msgstr ""
+
+msgid "Admin get all alerts on given email address"
+msgstr ""
+
+msgid "Admin > Configuration > Default System Email"
+msgstr ""
+
+msgid "Click here to view admin email"
+msgstr ""
+
+msgid "Download translation for"
+msgstr ""
+
+msgid "JS Support Ticket Documentation"
+msgstr ""
+
+msgid "Click here to view documentation"
+msgstr ""
+
+msgid "Step 1 of 3"
+msgstr ""
+
+msgid "Step 2 of 3"
+msgstr ""
+
+msgid "TICKET_REOPEN_TIME_LIMIT_END"
+msgstr ""
+
+msgid "Waiting admin reply"
+msgstr ""
+
+msgid "Not Filled"
+msgstr ""
+
+msgid "Ticket Locked"
+msgstr ""
+
+msgid "Admin email address and ticket via email email address cannot be same, your ticket via email will not be work."
+msgstr ""
+
